@@ -1,2 +1,2 @@
 # Buggy
-An educational project of the University of Applied Sciences Aachen. Mini metal buggy powered and controlled by STM32 board.
+An educational project from the University of Applied Sciences in Aachen. A mini metal buggy powered and controlled by an STM32 board.
