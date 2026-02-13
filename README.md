@@ -7,6 +7,17 @@ An educational project from the University of Applied Sciences in Aachen. A mini
 
 ![Buggy](./buggy.png)
 
+## Hardware
+- STM32F446RE
+- 2 x Slow speed motors
+- Arduino Motor Shield
+- IMU Shield
+- Ultrasonic Sensor
+- Metal Frame
+- 2 x Rubber Tyres
+- Powerbank(as PSU)
+- Steckboard
+
 ## 📄 License
 
 This project is licensed under Personal License - see the **[LICENSE](LICENSE)** file for details.
