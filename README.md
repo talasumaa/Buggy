@@ -4,7 +4,7 @@ An educational project from the University of Applied Sciences in Aachen. A mini
 ![C](https://img.shields.io/badge/C-blue?logo=C)
 [![License](https://img.shields.io/badge/License-green)](LICENSE)
 
-!(buggy.png)
+![Buggy](./buggy.png)
 
 ## 📄 License
 
