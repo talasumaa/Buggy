@@ -1,0 +1,13 @@
+../Core/Src/motor.c:17:6:SetMotorDirection	1
+../Core/Src/motor.c:26:6:SetMotorBrakes	1
+../Core/Src/motor.c:31:6:SetMotorSpeed	1
+../Core/Src/motor.c:37:6:DirectionInit	1
+../Core/Src/motor.c:41:6:UpdateDirection	7
+../Core/Src/motor.c:65:6:Backward	1
+../Core/Src/motor.c:70:6:BackwardLeft	1
+../Core/Src/motor.c:75:6:BackwardRight	1
+../Core/Src/motor.c:80:6:Forward	1
+../Core/Src/motor.c:85:6:ForwardLeft	1
+../Core/Src/motor.c:90:6:ForwardRight	1
+../Core/Src/motor.c:95:6:Brake	1
+../Core/Src/motor.c:99:6:Release	1
