@@ -31,7 +31,8 @@ An educational project from the University of Applied Sciences in Aachen. A mini
 03. Turn 90° left → check obstacle  
 
     └─ **If blocked**   → repeat step 2  
-    └─ **If clear**     → restart from step 1
+    └─ **If clear**     → restart from step 1  
+    ![Buggy](./drive_pattern.png)
 
 ## 📄 License
 
