@@ -34,6 +34,9 @@ An educational project from the University of Applied Sciences in Aachen. A mini
     └─ **If clear**     → restart from step 1  
     ![Buggy](./drive_pattern.png)
 
+## Workflow
+
+
 ## 📄 License
 
 This project is licensed under Personal License - see the **[LICENSE](LICENSE)** file for details.
