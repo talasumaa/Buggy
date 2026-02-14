@@ -5,9 +5,6 @@ An educational project from the **University of Applied Sciences in Aachen**. A 
 [![STM](https://img.shields.io/badge/STM-%23c2a906?logo=stmicroelectronics&logoColor=black)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![License](https://img.shields.io/badge/License-green)](LICENSE)
 
-> [!NOTE]
-> **Development Workspace:** STM32 Cube IDE
-
 ![Buggy](./images/buggy.png)![Buggy](./images/buggy2.png)
 
 ## ⚙️Hardware
@@ -37,8 +34,8 @@ An educational project from the **University of Applied Sciences in Aachen**. A 
     └─ **If clear**     → restart from step 1  
     ![Buggy](./images/drive_pattern.png)
 
-## 🚀Workflow  
-The development process follows a bottom-up approach, starting from fundamental components. The implementation begins with the core functions in:
+## 🚀Development Workflow  
+The project follows a **bottom-up development approach**, building functionality from fundamental components upward. Implementation progresses through these core modules:
 
 `gyro.c` - Gyroscope control and data processing
 
@@ -49,7 +46,8 @@ The development process follows a bottom-up approach, starting from fundamental 
 `main.c` - Main program flow and system integration
 
 > [!NOTE]
-> Each module was developed according to its corresponding header file specifications, ensuring clean interfaces and modular design.
+> **Modular Design:** Each module is implemented strictly according to its header file specifications, ensuring clean interfaces, maintainability, and easy testing of individual components.<br>  
+> **Development Environment:** STM32CubeIDE
 
 ## 📄 License
 
