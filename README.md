@@ -5,7 +5,7 @@ An educational project from the University of Applied Sciences in Aachen. A mini
 [![STM](https://img.shields.io/badge/STM-%23c2a906?logo=stmicroelectronics&logoColor=black)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![License](https://img.shields.io/badge/License-green)](LICENSE)
 
-![Buggy](./buggy.png)![Buggy](./buggy2.png)
+![Buggy](./images/buggy.png)![Buggy](./images/buggy2.png)
 
 ## ⚙️Hardware
 - STM32F446RE
@@ -32,7 +32,7 @@ An educational project from the University of Applied Sciences in Aachen. A mini
 
     └─ **If blocked**   → repeat step 2  
     └─ **If clear**     → restart from step 1  
-    ![Buggy](./drive_pattern.png)
+    ![Buggy](./images/drive_pattern.png)
 
 ## Workflow
 
